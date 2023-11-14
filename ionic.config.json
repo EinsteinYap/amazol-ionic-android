@@ -1,0 +1,7 @@
+{
+  "name": "amazol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
