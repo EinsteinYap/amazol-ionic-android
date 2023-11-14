@@ -1,0 +1,1 @@
+# amazol-ionic-android
